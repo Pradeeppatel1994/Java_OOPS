@@ -5,7 +5,9 @@ public class Arrays {
 	public static void main(String[] args) {
 		
 		//Integer
-		/*int i[] =new int[4];
+		/*int i[] =new int[4];   //declaration
+		 * 
+		 * adding values
 		i[0]=5;
 		i[1]=10;
 		i[2]=20;

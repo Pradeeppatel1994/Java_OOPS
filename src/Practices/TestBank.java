@@ -1,7 +1,5 @@
 package Practices;
 
-import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
-
 public class TestBank {
 
 	public static void main(String[] args) {
